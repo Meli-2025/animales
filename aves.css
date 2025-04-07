@@ -1,0 +1,26 @@
+body{
+    background-image: url(fondo.oto.jpg);
+}
+table{
+   background-color: #f5dfc2;
+ 
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:  #8d2627;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 6px 10px;
+    border-width: 3px;
+    border-color: #5E3023;
+    border-style: solid;
+    border-radius: 50px;
+ background-color: #d88f866b ;
+        color:  #5E3023;
+    }
+
+    .re{
+        background-color:#d88f866b ;
+    }

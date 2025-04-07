@@ -1,0 +1,38 @@
+body{
+background-image: url(fon.anfi.webp);
+}
+
+table{
+background-color: #e4ffe8;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 6px 10px;
+    border-width: 3px;
+    border-color: #412b45;
+    border-style: solid;
+    border-radius: 50px;
+ background-color:#88af84d7;
+        color:  #412b45;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #5d1c68;
+}
+
+.image{
+    padding: 6px 10px;
+    border-width: 3px;
+    border-color: #163832;
+    border-style:dashed;
+    border-radius: 50px;    
+}
+.re{
+    background-color:#88af84d7 ;
+}
+.re2{
+    background-color: #a093d3be;
+}

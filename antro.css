@@ -1,0 +1,36 @@
+body{
+    background-image: url(fondoantro.jpg);
+}
+table{
+    background-color: #d7cbec;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 6px 10px;
+    border-width: 3px;
+    border-color: #452c6a;
+    border-style: solid;
+    border-radius: 50px;
+ background-color: #62c50682;
+        color:  #452c6a;
+    }
+
+    .re{
+        background-color: #62c50650;
+  
+    }
+    .im{
+        padding: 6px 10px;
+        border-width: 3px;
+        border-color: #452c6a;
+        border-style:dashed;
+        border-radius: 40px;
+            color:  #452c6a;
+    }
+
+
+    h3{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+        color: #5ab507;
+    }

@@ -1,0 +1,34 @@
+body{
+    background-image: url(fondo.cele.jpg);
+    }
+    table{
+        background-color: white;
+    
+    }
+    h2{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 6px 10px;
+        border-width: 3px;
+        border-color:#3a2a68;
+        border-style: solid;
+        border-radius: 50px;
+     background-color: #f1bcd7;
+            color:  #3a2a68;
+    }
+    
+    .im{
+        padding: 6px 10px;
+        border-width: 3px;
+        border-color: #621854;
+        border-style:dashed;
+        border-radius: 40px;
+            color:  #621854;
+    }
+    
+    .re{
+      background-color: #f1bcd7;
+    }
+    h3{
+        color: #3a2a68;
+        background-color: #79c2f9;
+    }

@@ -1,0 +1,97 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Oswald:300');
+#menu ul{
+list-style:none;
+margin: 0;
+padding:0;
+display: flex;
+align-items: center;
+}
+
+#menu ul li{
+float:left ;
+
+
+}
+
+
+ #menu a{
+color:#163832;
+text-decoration: none;
+display: block;
+padding: 12px 26px;
+font-family: "Oswald";
+font-size: 18px;
+text-align: center;
+
+}
+#menu{
+    background: rgba(64,117,106,1);
+    background: -moz-linear-gradient(top, rgba(64,117,106,1) 0%, rgba(64,117,106,1) 15%, rgba(93,163,149,1) 59%, rgba(242,222,194,1) 96%, rgba(242,222,194,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(64,117,106,1)), color-stop(15%, rgba(64,117,106,1)), color-stop(59%, rgba(93,163,149,1)), color-stop(96%, rgba(242,222,194,1)), color-stop(100%, rgba(242,222,194,1)));
+    background: -webkit-linear-gradient(top, rgba(64,117,106,1) 0%, rgba(64,117,106,1) 15%, rgba(93,163,149,1) 59%, rgba(242,222,194,1) 96%, rgba(242,222,194,1) 100%);
+    background: -o-linear-gradient(top, rgba(64,117,106,1) 0%, rgba(64,117,106,1) 15%, rgba(93,163,149,1) 59%, rgba(242,222,194,1) 96%, rgba(242,222,194,1) 100%);
+    background: -ms-linear-gradient(top, rgba(64,117,106,1) 0%, rgba(64,117,106,1) 15%, rgba(93,163,149,1) 59%, rgba(242,222,194,1) 96%, rgba(242,222,194,1) 100%);
+    background: linear-gradient(to bottom, rgba(64,117,106,1) 0%, rgba(64,117,106,1) 15%, rgba(93,163,149,1) 59%, rgba(242,222,194,1) 96%, rgba(242,222,194,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#40756a', endColorstr='#f2dec2', GradientType=0 );
+    width: 100%;
+    max-width: 2000px;
+    height: 85px;
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.barra{
+    color:#032a1b;
+    padding: 50px;
+}
+#menu a:hover{
+color: rgba(99,194,105,1);
+background: #abd1e78c;
+animation: 1s ani 1;
+
+}
+@keyframes ani{
+    0%{
+        opacity: 0 0 0.1;
+        transform: scale(1.6);
+    }
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 6px 10px;
+       
+        color:  #163832;
+    }
+
+    body{
+        background-image: url(fondo.jpeg);
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    table{
+        background-color: #fff;
+    }
+
+
+    .re{
+        background-color: #9dcda271;
+    }
+
+
+    .es{
+        border-width: 3px;
+        border-color: #163832;
+        border-style: solid;
+        border-radius: 50px;
+     background-color: #13600c4c;
+          
+    }
+   
+    h3{
+        color:  #13600c;
+    }
+
+    h4{
+        color: rgb(8, 8, 59);
+    }

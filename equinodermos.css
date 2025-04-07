@@ -1,0 +1,33 @@
+body{
+    background-image: url(fondo.equino.jpg);
+}
+table{
+    background-color:#d7f1f4;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 6px 10px;
+    border-width: 3px;
+    border-color:#290e31;
+    border-style: solid;
+    border-radius: 50px;
+ background-color: #f0a1c5df;
+        color:  #290e31;
+}
+h3{
+    background-color: #c57adce7;
+color: #0e293d;}
+
+
+.im{
+    padding: 6px 10px;
+    border-width: 3px;
+    border-color: #ed8b35;
+    border-style:dashed;
+    border-radius: 40px;
+        color:  #ed8b35;
+}
+.re{
+    background-color: #f0a1c5b4   
+}

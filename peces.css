@@ -1,0 +1,40 @@
+body{
+background-image: url(fondo.jpeg);
+}
+table{
+    background-color:#afcbb4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 6px 10px;
+        border-width: 3px;
+        border-color: #163832;
+        border-style: solid;
+        border-radius: 50px;
+        color:  #163832;
+        background-color: #abd1e7f0
+    }
+    
+    .re{
+        padding: 6px 10px;
+        border-width: 3px;
+        border-color: #162138;
+        border-style:dashed;
+        border-radius: 40px;
+            color:  #162138;
+    }
+    h3{
+       font-family: 'Times New Roman', Times, serif;
+        color:#162138;
+        background-color:#AEC09A
+    }
+    h4{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 6px 10px;
+         color:  #162138;  
+         text-align: center;   
+    }
+    .cuadro{
+        background-color: #AEC09A;
+    }

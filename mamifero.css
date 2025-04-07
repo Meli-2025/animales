@@ -1,0 +1,43 @@
+body{
+    background-image: url(fondo.oto.jpg);
+}
+table{
+   background-color: #f5dfc2;
+ 
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 6px 10px;
+    border-width: 3px;
+    border-color: #5E3023;
+    border-style: solid;
+    border-radius: 50px;
+ background-color: #d88f866b ;
+        color:  #5E3023;
+    }
+
+    .recuadro{
+        background-color:#d88f866b ;
+    }
+
+    
+    .color{
+        color: #8d2627;
+    }
+
+    .imagen{
+        padding: 6px 10px;
+    border-width: 3px;
+    border-color: #4e2014;
+    border-style:dashed;
+    border-radius: 40px;
+        color:  #5E3023;
+    }
+   
+    h3{
+        background-color: #e4c2a5;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h4{
+        color: #6b3628;
+    }
